@@ -1,0 +1,11 @@
+{
+  "name": "codesplitting",
+  "version": "1.0.0",
+  "description": "Fun fun coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pascal Gagneur",
+  "license": "ISC"
+}
